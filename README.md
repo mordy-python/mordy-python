@@ -1,15 +1,21 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mordy-python&show_icons=true&theme=vue-dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mordy-python&layout=compact" />
+</a>
+<br>
 
-**mordy-python/mordy-python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on 
+    - Chemyst
+    - Geomytry
+- 👯 I’m looking to collaborate on
+  - Chemyst
+   - Geomytry
+- 💬 Ask me about anything!
+- 📫 How to reach me: 
+   - email me at [imky171@gmail.com](mailto:imky171@gmail.com)
+- 😄 Pronouns: shey/her they/them
+- ⚡ Fun fact: I'm making a language (not programming, a speaking one)
