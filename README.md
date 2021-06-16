@@ -18,5 +18,5 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
    - email me at [imky171@gmail.com](mailto:imky171@gmail.com)
-- 😄 Pronouns: shey/her they/them
+- 😄 Pronouns: <!--shey/her--> they/them
 - ⚡ Fun fact: I'm making a language (not programming, a speaking one)
