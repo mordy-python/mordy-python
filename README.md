@@ -16,7 +16,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: 
    - email me at [imky171@gmail.com](mailto:imky171@gmail.com)
-- 😄 Pronouns: <!--shey/her--> they/them
+<!-- - 😄 Pronouns: shey/her they/them -->
 - ⚡ Fun fact: I'm learning Scottish!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
