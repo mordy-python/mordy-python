@@ -14,4 +14,4 @@
 - ⚡ Fun fact: I'm learning Scottish!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mordy-python&show_icons=true&theme=solarized-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mordy-python&show_icons=true&theme=dracula" />
