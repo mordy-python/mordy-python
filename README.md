@@ -13,7 +13,5 @@
 <!-- - 😄 Pronouns: they/them -->
 <!-- - ⚡ Fun fact: I'm learning Scottish! -->
 
-[![@izzyhands's Holopin board](https://holopin.me/izzyhands)](https://holopin.io/@izzyhands)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=mordy-python&show_icons=true&theme=dracula" />
